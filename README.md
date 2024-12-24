@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs involving non-standard string concatenation within a loop. The bug.cob file contains code that attempts to concatenate strings which may lead to unexpected results or compiler errors. The bugSolution.cob file provides a corrected version using standard COBOL techniques.
